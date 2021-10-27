@@ -1,2 +1,2 @@
-# cursoArrays-en-JavaScript
-Clases del Curso de Manipulación de Arrays en JavaScript
+# Curso Arrays en JavaScript.
+## Clases del Curso de Manipulación de Arrays en JavaScript
